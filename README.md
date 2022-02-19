@@ -1,4 +1,4 @@
-### Hi there 👋
+### My Crappy Github Stats
 
 [![RW-77's GitHub stats](https://github-readme-stats.vercel.app/api?username=RW-77&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
